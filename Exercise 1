@@ -1,0 +1,40 @@
+package javaBeginners;
+
+public class PrintCheckerPattern {
+
+	public static void main(String[] args) {
+		System.out.println("* * * * *");
+		System.out.println(" * * * * *");
+		System.out.println("* * * * *");
+		System.out.println(" * * * * *");
+		System.out.println("* * * * *");
+    package javaBeginners;
+
+public class PrintSquarePattern {
+
+	public static void main(String[] args) {
+		System.out.println("* * * * *");
+		System.out.println("*       *");
+		System.out.println("*       *");
+		System.out.println("*       *");
+		System.out.println("* * * * *");
+    package javaBeginners;
+
+public class PrintStarPattern {
+
+	public static void main(String[] args) {
+		System.out.println("    *   ");
+		System.out.println("* *   * *");
+		System.out.println("   * *");
+		System.out.println("  *   *");
+		System.out.println(" *     *");
+    package javaBeginners;
+
+public class PrintTriangularPattern {
+
+	public static void main(String[] args) {
+		System.out.println("* * * * *");
+		System.out.println(" *     *");
+		System.out.println("  *   *");
+		System.out.println("   * *");
+		System.out.println("    *");
